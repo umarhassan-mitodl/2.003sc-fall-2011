@@ -1,0 +1,73 @@
+leftnav:
+- identifier: d1b694be-960d-f27a-c0a1-8f8a400c141d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 70dbfa93-e140-9409-6311-b3641daa05ef
+  name: Newton's Laws, Vectors, and Reference Frames
+  pageRef: /pages/newton2019s-laws-vectors-and-reference-frames
+  weight: 20
+- identifier: d479c0ac-1170-243d-23ce-3aa59b83a427
+  name: Velocity, Acceleration, and Rotational Motion
+  pageRef: /pages/velocity-acceleration-and-rotational-motion
+  weight: 30
+- identifier: a040d3e0-0e6a-0dff-a6b0-aad775496601
+  name: Angular Momentum and Torque
+  pageRef: /pages/angular-momentum-and-torque
+  weight: 40
+- identifier: 49b2e57b-25e7-8f5e-7535-7bd01348a8e1
+  name: Free Body Diagrams and Fictitious Forces
+  pageRef: /pages/free-body-diagrams-and-fictitious-forces
+  weight: 50
+- identifier: 287a0995-df2a-cc70-e6eb-9b2dc7a86f9d
+  name: Quiz 1
+  pageRef: /pages/quiz-1
+  weight: 60
+- identifier: 5a443f4f-d020-ca36-4f90-db3463369b68
+  name: Angular Momentum and Rotating Masses
+  pageRef: /pages/angular-momentum-and-rotating-masses
+  weight: 70
+- identifier: 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac
+  name: Angular Momentum and Motion of Rotating Rigid Bodies
+  pageRef: /pages/angular-momentum-and-motion-of-rotating-rigid-bodies
+  weight: 80
+- identifier: 9fdc3853-8645-b3ee-78bf-504125c7ccf2
+  name: Finding Equations of Motion for Rigid Body Rotation
+  pageRef: /pages/finding-equations-of-motion-for-rigid-body-rotation
+  weight: 90
+- identifier: 80655e0a-6d9a-14f6-5217-66094b07db0c
+  name: Lagrange Equations
+  pageRef: /pages/lagrange-equations
+  weight: 100
+- identifier: 10db64f8-6d56-8e34-4922-f495cc551eca
+  name: Lagrange Equations Continued
+  pageRef: /pages/lagrange-equations-continued
+  weight: 110
+- identifier: 21b71eee-4a0c-1deb-931f-920a7dafbd5c
+  name: Quiz Review Lecture & Quiz 2
+  pageRef: /pages/quiz-review-lecture-quiz-2
+  weight: 120
+- identifier: 56828116-6798-4acb-bfaa-7d752c91ca91
+  name: Mechanical Vibration
+  pageRef: /pages/mechanical-vibration
+  weight: 130
+- identifier: 4479bfdd-0c9f-9aa1-d70c-3af5c347e198
+  name: Reducing Problem Vibration and Intro to Multi-DOF Vibration
+  pageRef: /pages/reducing-problem-vibration-and-intro-to-multi-dof-vibration
+  weight: 140
+- identifier: c9bc5d26-e2c3-014e-ae82-f96f3f7633d2
+  name: Vibration of Multi-Degree-of-Freedom Systems
+  pageRef: /pages/vibration-of-multi-degree-of-freedom-systems
+  weight: 150
+- identifier: dcb2cda1-7e74-304f-15d8-a1aecb3cab44
+  name: Vibration Analysis by Mode Superposition
+  pageRef: /pages/vibration-analysis-by-mode-superposition
+  weight: 160
+- identifier: d3001237-ba09-a372-f4b9-38e26acf706a
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 170
+- identifier: ce12384b-bce1-4235-ded2-004c6c1d7e78
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 180
